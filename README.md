@@ -1,5 +1,7 @@
 # INSTITUTO EDUCACIONAL GONZAGA
+<head>
 <meta charset="utf-8">
+</head>
 Aula de informática IEG - 1º ANO
 <img src="LOGO PNG.png" width="30%">
 
